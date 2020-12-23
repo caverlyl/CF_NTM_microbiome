@@ -1,0 +1,3 @@
+interpolator.R - interpolate counts prior to ARIMA
+PoissonARIMA_dis_all.R - run ARIMA for all samples, NTM yes vs no
+analysis_dis_all.R - Filter results and plot heatmap and network
